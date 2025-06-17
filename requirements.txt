@@ -128,7 +128,7 @@ ply==3.11
 prometheus-client==0.16.0
 prompt-toolkit @ file:///C:/b/abs_6coz5_9f2s/croot/prompt-toolkit_1672387908312/work
 property-cached==1.6.4
-protobuf==3.19.6
+protobuf==4.25.8
 psutil==5.9.4
 psycopg2-binary==2.9.5
 pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
