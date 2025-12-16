@@ -45,7 +45,7 @@ entrypoints @ file:///C:/ci/entrypoints_1649926621247/work
 exchange-calendars==3.6.3
 executing==1.2.0
 fastjsonschema @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_ebruxzvd08/croots/recipe/python-fastjsonschema_1661376484940/work
-filelock==3.9.0
+filelock==3.20.1
 finrl @ git+https://github.com/AI4Finance-Foundation/FinRL.git@ab7140009ad1bea1867f241df14daffd0baacb2e
 flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
 fonttools==4.38.0
